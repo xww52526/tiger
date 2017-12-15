@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' Add together two numbers\n#'\n#' @param x A number\n#' @param y A number\n#' @return The sum of \\code{x} and \\code{y}\n#' @examples\n#' add(1, 1)\n#' add(10, 1)\nadd <- function(x, y) {\n  x + y\n}",
+    "created" : 1513211483301.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3431880164",
+    "id" : "A47F7724",
+    "lastKnownWriteTime" : 1513209158,
+    "last_content_update" : 1513209158,
+    "path" : "~/Desktop/tiger/R/add.R",
+    "project_path" : "R/add.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

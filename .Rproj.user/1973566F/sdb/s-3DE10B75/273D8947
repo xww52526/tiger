@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: tiger\nType: Package\nTitle: wenwen's first package\nVersion: 0.1.0\nAuthor: Who wrote it\nMaintainer: The package maintainer <yourself@somewhere.net>\nDescription: More about what it does (maybe more than one line)\n    Use four spaces when indenting paragraphs within the Description.\nLicense: What license is it under?\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\n",
+    "created" : 1513211761202.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1120045893",
+    "id" : "273D8947",
+    "lastKnownWriteTime" : 1513211741,
+    "last_content_update" : 1513211741,
+    "path" : "~/Desktop/tiger/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

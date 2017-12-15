@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' generate squared values\n#'\n#' @param x A number\n#' @return The square of \\code{x}\n#' @export\n#' @examples\n#' square(5)\nsquare <- function(x){\n  return(x^2)\n}\n",
+    "created" : 1513211489079.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "906855465",
+    "id" : "74AADAC5",
+    "lastKnownWriteTime" : 1513211638,
+    "last_content_update" : 1513211638,
+    "path" : "~/Desktop/tiger/R/power.R",
+    "project_path" : "R/power.R",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
